@@ -1,0 +1,19 @@
+Task 1: Directory Creation (20 minutes)
+1. Create the complete directory structure using mkdir -p
+2. Add placeholder files using touch in each subdirectory
+3. Create a comprehensive README.md with project description
+4. Document directory purposes and expected file types
+
+Task 2: File Operations Practice (15 minutes)
+1. Create sample files representing different data types
+2. Practice copying files between directories
+3. Use text viewing commands to inspect file contents
+4. Organize files into logical subdirectories
+
+Task 3: GitHub Integration (25 minutes)
+1. Create GitHub account and new repository
+2. Initialize git in project directory
+3. Add all files and commit with meaningful messages
+4. Push complete project structure to GitHub
+5. Verify repository accessibility online
+
